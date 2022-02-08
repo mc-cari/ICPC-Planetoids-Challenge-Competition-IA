@@ -1,6 +1,6 @@
 ﻿# Deviation Games Asteroids IA 
 
-Rank 10 in https://planetoids21.kattis.com/standings
+Rank 10 in https://planetoids21.kattis.com/standings as DKZ'S.
 
 ## Setup for Windows
 - Download the game by Deviation Games LLC at https://icpc.global/deviation/IcpcContestantAll.zip.
