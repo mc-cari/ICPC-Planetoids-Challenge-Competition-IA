@@ -1,4 +1,6 @@
 ﻿# Deviation Games Asteroids IA 
+ 
+Controller for a space ship in a asteroids game to achieve the highest score.
 
 Rank 10 in https://planetoids21.kattis.com/standings as DKZ'S.
 
